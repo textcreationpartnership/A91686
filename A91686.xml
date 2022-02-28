@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Resolution of Devonshire and Cornwall and other adioyning counties: with the names of the forts and castles given up to the King. With the copie of a letter written by I. Ayre Esquire from Portsmouth, to M. I. Arundell in London, shewing His Majesties entertainment there, and all proceedings since his Maiesties coming thither. Also a true relation of the passages between the cavaliers at Wels in Somerset-shire, and the trained bands, with their resolution for the defence of the King and Parliament, and the number of voluntiers that came to assist them from the neighbouring counties. Joh. Brown Cler. Parl.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91686</idno>
+            <idno type="STC">Wing R1140</idno>
+            <idno type="STC">Thomason E111_12</idno>
+            <idno type="STC">ESTC R19283</idno>
+            <idno type="EEBO-CITATION">99860630</idno>
+            <idno type="PROQUEST">99860630</idno>
+            <idno type="VID">112755</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91686)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112755)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E111[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Resolution of Devonshire and Cornwall and other adioyning counties: with the names of the forts and castles given up to the King. With the copie of a letter written by I. Ayre Esquire from Portsmouth, to M. I. Arundell in London, shewing His Majesties entertainment there, and all proceedings since his Maiesties coming thither. Also a true relation of the passages between the cavaliers at Wels in Somerset-shire, and the trained bands, with their resolution for the defence of the King and Parliament, and the number of voluntiers that came to assist them from the neighbouring counties. Joh. Brown Cler. Parl.</title>
+                  <author>Ayre, J. (John)</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard West,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642. August 13.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Wells (Somerset) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112755:1" rendition="simple:additions"/>
+            <p>THE Reſolution OF DEVONSHIRE <hi>AND</hi> CORNWALL AND Other adioyning Counties: with the names of the Forts and Caſtles given up to the King.</p>
+            <p>
+               <hi>WITH</hi> The Copie of a Letter written by <hi>I. Ayre</hi> Eſquire from <hi>Portſmouth,</hi> to M. <hi>I. Arundell</hi> in <hi>London,</hi> ſhewing His M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ie entertainment there, and all proceedings ſince his Maieſties coming thither.</p>
+            <p>
+               <hi>ALSO</hi> A true Relation of the Paſſages between the Cava<g ref="char:EOLhyphen"/>liers at <hi>Wels</hi> in Somerſet-ſhire, and the Trained Bands, with their Reſolution for the defence of the King and Parliament, and the number of Voluntiers that came to aſsiſt them from the neighbouring Counties.</p>
+            <p>Joh. Brown Cler. Parl.</p>
+            <p>Printed for <hi>Richard Weſt.</hi> 1642. <hi>Auguſt</hi> 13.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:112755:2"/>
+            <pb n="1" facs="tcp:112755:2"/>
+            <head>THE COPIE OF A LETTER <hi>WRITTEN</hi> By <hi>I. Ayre</hi> Eſquire, to M. <hi>Iohn Arundell,</hi> DECLARING HIS MAJESIES PROCEEDINGS at <hi>Portſmouth</hi> ſince his coming thither.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Or your unweari<g ref="char:EOLhyphen"/>ed paines and cou<g ref="char:EOLhyphen"/>rage for me in theſe dangerous times wherewith you have been in<g ref="char:EOLhyphen"/>compaſſed, and in that you have minded nothing in all your conſulta<g ref="char:EOLhyphen"/>tions and endeavours but Gods glory, His
+<pb n="2" facs="tcp:112755:3"/>Maieſties honour and ſafety, and the King<g ref="char:EOLhyphen"/>domes good: In requitall of which, I have in part ſent you the paſſages ſince His Maie<g ref="char:EOLhyphen"/>ſties arrivall amongſt us at <hi>Portſmouth.</hi> We have had continuall rumours of wars in theſe parts, no other diſcouſe ſtirring, but what <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath poſſeſſed the ſubiects hearts with feare and terrour, by reaſon of the continuall ex<g ref="char:EOLhyphen"/>pectation of bloud, yet hitherto we ſee no ſuch danger; but at his Maieſties approach the Governour humbled himſelfe, and ſur<g ref="char:EOLhyphen"/>rendred his charge. Then the Maior, and Aldermen, and inhabitants of the town made a guard, and waited on him to Sir <hi>Henry Wal<g ref="char:EOLhyphen"/>ker</hi> his houſe, with about two hundred gentle<g ref="char:EOLhyphen"/>men on horſe-back: and when he had viewed the town round, and ſaw it well fortified, he ſaid, his Parliament hath had a great care both of the Kingdome and his Perſon, or to that effect: here was exceeding ioy, nay I dare boldly ſay, that from the greateſt to the meaneſt, they had not the heart to reſiſt his entrance, as Sir <hi>Iohn Hotham</hi> did at <hi>Hull.</hi> The Gentry of the Countrey have ſince flocked to the town in abundance, and happy they are to ſee his Maieſty; for it was reported that his Maieſty much grieved that Sir <hi>Iohn Ho<g ref="char:EOLhyphen"/>tham</hi> denied him entrance into the towne of <hi>Hull,</hi> and for that hee hath made ſuch ſpoil, and undone ſo many men about him, and that
+<pb n="3" facs="tcp:112755:3"/>he being a peaceable King, was deſirous to leave the Northerne parts for feare of bloud<g ref="char:EOLhyphen"/>ſhed amongſt his ſubiects. Here is no ſuſpi<g ref="char:EOLhyphen"/>tion of his Maieſty. The greateſt Gentry in <hi>Hampſhire, Iſle of Wight,</hi> and other Counties have profered themſelves to live and die in the defence of his Maieſty, and all his iuſt and lawfull prerogatives: and the Governour and Porter of <hi>Huſt</hi> Caſtle, the Governour and Captaine <hi>Burley</hi> in <hi>Yarmouth,</hi> both places in the <hi>Iſle of Wight,</hi> will be ready to reſigne their places of truſt, if his Maieſty pleaſeth: alſo farther Weſt, at <hi>Waymouth, Poole,</hi> and <hi>Lymo</hi> in <hi>Dorſetſhire, Apſum, Tingmoth, Dartmouth</hi> and <hi>Plymmouth</hi> in <hi>Devonſhire, Penderines, S. Mawes, Foy,</hi> and <hi>Helford</hi> in <hi>Cornwall.</hi> All theſe places of ſtrength, with the brave Com<g ref="char:EOLhyphen"/>manders and Souldiers therein will be at his Maieſties ſervice when occaſion ſerves. There is likewiſe order taken, that thoſe places of of ſtrength, as Caſtles, and Forts, which are any wayes decayed in the workes or forti<g ref="char:EOLhyphen"/>fications, ſhall be ſpeedily rectified and re<g ref="char:EOLhyphen"/>paired. The Caſtle of <hi>S. Mawes</hi> in <hi>Cornwall</hi> is extremely decayed in plat-formes, Carriages, and want of Ordnance, being altogether un<g ref="char:EOLhyphen"/>furniſhed of any ſort of ammunition whatſoe<g ref="char:EOLhyphen"/>ver. There is order taken for the amending and ſupplying of theſe places, being of ſuch great conſequence. I underſtood a paſſage in a
+<pb n="4" facs="tcp:112755:4"/>Letter written unto me by my couſin <hi>Arun<g ref="char:EOLhyphen"/>dell,</hi> that diverſe gentlemen in <hi>Lincolne-ſhire</hi> and other Counties adiacent ſhould profer the King all they had, yea and venture their lives in His Maieſties defence, and the King made anſwer, their love ſhould never be forgotten, and ſaid, for their perſons he deſired not. but ſaid, they would be then termed Papiſts, but for their money, horſe, or amunition he would embrace, knowing them to be no Papiſts. I deſire you to let me underſtand by the next Poſt of the paſſages in <hi>Ireland,</hi> but I feare that the diſtractions and diviſions that have been raiſed amongſt our ſelves, have much hindred their reliefe, and unleſſe theſe impediments be ſpeedily removed, that the aid and aſſiſtance intended for that ſervice, wilbe ſtill delayed and procraſtinated, to the utter deſtruction of that Kingdome, without all hopes of recove<g ref="char:EOLhyphen"/>ry, or reducing the ſame to due obedience and ſubiection to the Crown of <hi>England,</hi> becauſe they daily receive encouragement by occaſion of our troubles here: It is to be feared that thoſe barbarous and inhumane Rebels will ſcarce put an end to their divelliſh deſignes in <hi>Ireland,</hi> for the inhabitants of the City of <hi>Briſtow</hi> do now watch in Armes day and night to prevent the ſurprizing of the City by the Iriſh Rebels, who gathered a great army over againſt <hi>Briſtow,</hi> which is within twenty foure
+<pb n="5" facs="tcp:112755:4"/>houres ſaile of that part of <hi>Ireland.</hi> After two dayes ſettlement with His Maieſty, our High Sheriffe and Deputy-Lieutenants were queſtioned for the putting of the <hi>Militia</hi> in execution, who anſwered as followeth, That what they did was by command of both Hou<g ref="char:EOLhyphen"/>ſes of Parliament: And as for my part, quoth the Sheriffe, I that have formerly engaged my ſelfe for my King, and Countreyes good, am now ready, nay more willing then ever, to ad<g ref="char:EOLhyphen"/>venture both life, eſtate, liberty, and whatſoe<g ref="char:EOLhyphen"/>ver els I may terme mine, for the good of the Kingdome, and advancement of his Maieſties honour, againſt any forraigne or civill enemy, Under the pleaſing ſhade of whoſe Crowne we have ever gathered the fruits of juſtice; and upon whoſe happineſſe the welfare of the whole Common-wealth principally depends, and our hopes principally conſiſting in his roy<g ref="char:EOLhyphen"/>all pleaſure. I confeſſe, the jarres amongſt our ſelves muſt needs be a point of great indi<g ref="char:EOLhyphen"/>gnity and diſhonour to our Realm of <hi>England,</hi> and a ioy to thoſe which ſeek to ſubvert and confound our Lawes and Religion. But God grant by his goodneſſe that the wiſdome of his ſacred Maieſty, and good policie of the Parli<g ref="char:EOLhyphen"/>ament we may be all compoſed and brought to a happy reconcilement. <hi>Vale.</hi>
+            </p>
+            <closer>
+               <signed>Yours with reſpect, J. A.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:112755:5"/>
+            <p>The Lord Marqueſſe <hi>Hartford</hi> and the Cavaliers being poſſeſt of <hi>Wels,</hi> the County of <hi>Somerſet</hi> upon Friday morning laſt me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at <hi>Chewton,</hi> about foure miles diſtant from <hi>Wels,</hi> where all the Trained Bands of that part of the Shire, eſpecially M. <hi>Pophams</hi> Regiment, twice doubled in number by Voluntiers that came in completely armed. Sca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce had they been two houres upon the hill, but the number increaſed to forty thouſand. There came out of <hi>Wiltſhire</hi> 300. Horſemen moſt of them well armed, beſides three hun<g ref="char:EOLhyphen"/>dred other Horſemen from the city of <hi>Briſtol</hi> men of good rank and quality, armed with Swords, Piſtols and Carbines, with two wains loaden with powder match and bullet, and two other wins with foure ſmall field-peeces, and two Gunners; and from <hi>Gloceſterſhire</hi> three hundred Footmen Voluntiers led by an expert Commander, all reſolving with the utmoſt of their power to fall upon the Cavaliers in <hi>Wels,</hi> &amp; take them with the Marque, &amp; bring them up to the Parliament, inſomuch that the Committees and Deputy-Lieutenants could ſcarce reſtrain them. The next day while the Cavaliers deſired time to anſwer the Propo<g ref="char:EOLhyphen"/>ſitions propounded by the Somerſetſhire men, left the town and rode away, for feare of being taken by the countreymen.</p>
+            <closer>
+               <signed>Ioh. Brown Cleric. Parliament.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
